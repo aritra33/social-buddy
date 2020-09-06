@@ -1,0 +1,14 @@
+.colorContent{
+    background-color: lightgray;
+}
+.colorActions{
+    background-color: olivedrab;
+}
+.styleCard{
+    margin:15px;
+    padding:10px;
+    border-radius: 5px;
+}
+.btn{
+    margin-left: 85px;
+}

@@ -1,0 +1,13 @@
+.postBody{
+    margin: 50px 50px;
+    padding: 20px 20px;
+    border: 2px solid olivedrab;
+    border-radius: 5px;
+    box-shadow: 5px 5px 2px lightgray;
+    background-color: rgb(201, 250, 201);
+
+}
+.comments-text{
+    text-align: center;
+    color: olivedrab;
+}
